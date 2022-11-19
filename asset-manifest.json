@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw-hoc-highlighter/static/css/main.b4e14ce7.css",
+    "main.js": "/react-hw-hoc-highlighter/static/js/main.a0e6040d.js",
+    "static/js/787.c71df38b.chunk.js": "/react-hw-hoc-highlighter/static/js/787.c71df38b.chunk.js",
+    "index.html": "/react-hw-hoc-highlighter/index.html",
+    "main.b4e14ce7.css.map": "/react-hw-hoc-highlighter/static/css/main.b4e14ce7.css.map",
+    "main.a0e6040d.js.map": "/react-hw-hoc-highlighter/static/js/main.a0e6040d.js.map",
+    "787.c71df38b.chunk.js.map": "/react-hw-hoc-highlighter/static/js/787.c71df38b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4e14ce7.css",
+    "static/js/main.a0e6040d.js"
+  ]
+}
